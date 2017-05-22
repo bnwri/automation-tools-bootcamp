@@ -23,6 +23,7 @@ Project Participants
 ====================
 
 * Tyler Fitch
+* Ben Wright
 * Jeff Korthuis
 * Daniel Rich
 * Gilbert Wilson
